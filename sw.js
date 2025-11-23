@@ -3,8 +3,8 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/Avatar.256.png.png',
-  '/Avatar.512.png.png'
+  '/Avatar.256.png',
+  '/Avatar.512.png'
 ];
 
 // Install SW
