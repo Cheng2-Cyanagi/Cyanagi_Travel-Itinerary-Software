@@ -1,4 +1,4 @@
-const CACHE_NAME = 'qing-journey-v1';
+const CACHE_NAME = 'qing-journey-v5';
 const urlsToCache = [
   '/',
   '/index.html',
