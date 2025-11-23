@@ -1,0 +1,15 @@
+{
+  "short_name": "靑凪旅程",
+  "name": "靑凪旅程紀錄網 2026",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9815/9815474.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7B66FF",
+  "background_color": "#C5FFF8"
+}
