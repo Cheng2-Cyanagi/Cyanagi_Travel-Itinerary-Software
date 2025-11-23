@@ -2,7 +2,8 @@ const CACHE_NAME = 'qing-journey-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/manifest.json'
+  '/manifest.json',
+  '/avatar.jpg.png'
 ];
 
 // Install SW
