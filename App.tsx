@@ -17,7 +17,7 @@ import { zhTW } from 'date-fns/locale';
 // ==================================================================
 // 👇👇👇【請在此處替換您的 LOGO 照片連結】👇👇👇
 // ==================================================================
-const LOGO_URL = "https://i.ibb.co/dJ5nR4KM/avatar-jpg.png"; 
+const LOGO_URL = "https://i.ibb.co/cSnvJbHG/avatar-jpg.png"; 
 // 👆👆👆=============================================================
 
 type Tab = 'dashboard' | 'calendar' | 'lists' | 'inventory';
