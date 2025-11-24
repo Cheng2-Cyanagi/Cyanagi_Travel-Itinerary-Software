@@ -17,7 +17,7 @@ import { zhTW } from 'date-fns/locale';
 // ==================================================================
 // 👇👇👇【請在此處替換您的 LOGO 照片連結】👇👇👇
 // ==================================================================
-const LOGO_URL = "https://github.com/Cheng2-Cyanagi/Cyanagi_Travel-Itinerary-Software/blob/861484798823e9f6e2d5950b684271992d2509cf/Public/Avatar.512.png"; 
+const LOGO_URL = "https://i.ibb.co/dJ5nR4KM/avatar-jpg.png"; 
 // 👆👆👆=============================================================
 
 type Tab = 'dashboard' | 'calendar' | 'lists' | 'inventory';
