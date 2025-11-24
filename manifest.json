@@ -3,6 +3,11 @@
   "name": "靑凪旅程紀錄網 2026",
   "icons": [
     {
+      "src": "/Avatar.256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
       "src": "/Avatar.512.png",
       "type": "image/png",
       "sizes": "512x512"
