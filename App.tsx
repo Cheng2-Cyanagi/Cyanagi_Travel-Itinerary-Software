@@ -13,11 +13,12 @@ import {
 import { v4 as uuidv4 } from 'uuid';
 import { format } from 'date-fns';
 import { zhTW } from 'date-fns/locale';
+import Logo from './assets/Avatar.512.png';
 
 // ==================================================================
 // 👇👇👇【請在此處替換您的 LOGO 照片連結】👇👇👇
 // ==================================================================
-const LOGO_URL = "/Avatar.256.png"; 
+const LOGO_URL = "Logo"; 
 // 👆👆👆=============================================================
 
 type Tab = 'dashboard' | 'calendar' | 'lists' | 'inventory';
