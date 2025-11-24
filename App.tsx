@@ -13,12 +13,11 @@ import {
 import { v4 as uuidv4 } from 'uuid';
 import { format } from 'date-fns';
 import { zhTW } from 'date-fns/locale';
-import Logo from './assets/Avatar.512.png';
 
 // ==================================================================
 // 👇👇👇【請在此處替換您的 LOGO 照片連結】👇👇👇
 // ==================================================================
-const LOGO_URL = "Logo"; 
+const LOGO_URL = "https://github.com/Cheng2-Cyanagi/Cyanagi_Travel-Itinerary-Software/blob/861484798823e9f6e2d5950b684271992d2509cf/Public/Avatar.512.png"; 
 // 👆👆👆=============================================================
 
 type Tab = 'dashboard' | 'calendar' | 'lists' | 'inventory';
